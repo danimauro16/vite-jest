@@ -18,14 +18,14 @@ Modify your `package.json` with this:
 
 ```json
 {
-	"name": "example1",
-	"version": "0.0.0",
-	"scripts": {
-    	"dev": "vite",
-    	"build": "tsc && vite build",
-    	"serve": "vite preview",
-    	"test": "jest --watchAll"
-	}
+  "name": "example1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
+    "test": "jest --watchAll"
+  }
 }
 ```
 
